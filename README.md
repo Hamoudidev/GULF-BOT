@@ -22,8 +22,8 @@ We're supports both Arabic and English languages.
   </a>
 
   &copy; GULF BOT - <span id="year"></span>
-  
+</div>
+
   <script>
     document.getElementById("year").textContent = new Date().getFullYear();
   </script>
-</div>
