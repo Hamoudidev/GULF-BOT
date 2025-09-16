@@ -21,9 +21,5 @@ We're supports both Arabic and English languages.
     <img src="https://top.gg/api/widget/1183158118373400576.svg">
   </a>
 
-  &copy; GULF BOT - <span id="year"></span>
+  &copy; GULF BOT - 2025</span>
 </div>
-
-  <script>
-    document.getElementById("year").textContent = new Date().getFullYear();
-  </script>
