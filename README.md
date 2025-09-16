@@ -15,3 +15,9 @@ Some of the features you can use in GULF BOT
   - *Other Features you can explore it when using the bot.
 
 We're supports both Arabic and English languages.
+
+<center>
+  <a href="https://top.gg/bot/1183158118373400576">
+    <img src="https://top.gg/api/widget/1183158118373400576.svg">
+  </a>
+</center>
