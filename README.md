@@ -13,3 +13,5 @@ Some of the features you can use in GULF BOT
   - Advanced Public Store & Weapons Store System/s.
   - Advanced Real-Estate & Cars & Headquarter System/s.
   - *Other Features you can explore it when using the bot.
+
+We're supports both Arabic and English languages.
